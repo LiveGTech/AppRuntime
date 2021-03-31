@@ -1,0 +1,14 @@
+{
+    "name": "appruntime",
+    "version": "0.1.0",
+    "description": "Layer for launching web apps in both online and offline environments.",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "LiveG Technologies",
+    "dependencies": {
+        "electron": "^12.0.2",
+        "minimist": "^1.2.5"
+    }
+}
