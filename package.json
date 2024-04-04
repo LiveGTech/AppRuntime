@@ -8,7 +8,7 @@
     },
     "author": "LiveG Technologies",
     "dependencies": {
-        "electron": "^16.0.0",
+        "electron": "^27.3.9",
         "minimist": "^1.2.5"
     }
 }
